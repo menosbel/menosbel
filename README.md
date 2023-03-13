@@ -18,7 +18,7 @@
 
 <p></p>
 
----
+<h2 />
 
 <h3 align="left">Connect With Me!</h3>
 <p align="left">
@@ -26,7 +26,7 @@
 <a href="https://twitter.com/menosbel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="menosbel" height="30" width="40" /></a>
 </p>
 
----
+<h2 />
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
